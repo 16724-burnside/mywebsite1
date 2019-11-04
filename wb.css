@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(220, 248, 227);
+}
+img{
+    height:200px;
+}
+
+.card{
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+.card img{
+    float: left;
+}
